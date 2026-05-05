@@ -1,11 +1,9 @@
-# Customer-Churn-Analysis
-Customer Churn Analysis &amp; Prediction using Python
-# 📉 Customer Churn Analysis & Prediction
+📉 Customer Churn Analysis & Prediction
 
  📌 Objective
 The goal of this project is to analyze customer behavior and identify factors that lead to customer churn. A machine learning model is built to predict whether a customer is likely to leave.
 
- 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
 - Machine Learning (Scikit-learn)
@@ -38,5 +36,10 @@ The goal of this project is to analyze customer behavior and identify factors th
 - Optimize pricing strategies for high-risk customers
 - Improve onboarding experience
 
+ 📁 Project Structure
+customer-churn-analysis/
+│── churn_analysis.ipynb   # Main Jupyter Notebook with analysis & model
+│── README.md              # Project documentation
 
-## 📁 Project Structure
+🚀 Conclusion
+This project demonstrates how data analysis and machine learning can be used to identify customer churn patterns and support business decision-making.
